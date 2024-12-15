@@ -6,6 +6,7 @@
 
 2. Nuxt  
     ・コンテナ上で以下のコマンドを実行  
+
         npx nuxi init . --force  
         yarn install  
         yarn dev  
@@ -14,6 +15,7 @@
 
 3. Django  
     ・コンテナ上で以下のコマンドを実行  
+
         django-admin startproject myproject  
         cd myproject  
         python3 manage.py runserver 0.0.0.0:8000  
